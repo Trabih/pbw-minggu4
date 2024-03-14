@@ -1,0 +1,43 @@
+#body {
+    background-color: #A70C0C;
+}
+#top {
+    padding: 100px;
+    margin: auto ;
+    width: 50%;
+    text-align: center;
+    font-family: "Porter sans block",sans-serif;
+    color: white;
+    font-size:600%;
+
+}
+
+#foto{
+    margin:auto;
+    display:block;
+    border: 5px black;
+    max-width: 50%;
+    max-height: 50%;
+
+}
+#middle {
+    width: 50%;
+    margin: auto;
+    padding: 50px ;
+    text-align: center;
+    color: white;
+    font-family: "poppins";
+}
+
+#bottom {
+    border: 4px solid black;
+    width: 30%;
+    margin: auto;
+    padding: 50px ;
+    text-align: center;
+    background-color: white;
+    color: #A70C0C;
+    border-radius: 20px;
+    font-size: 500%;
+    font-family: "poppins";
+}
